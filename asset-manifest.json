@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airbnb/static/css/main.0fcdda55.css",
+    "main.js": "/airbnb/static/js/main.f73d01fe.js",
+    "static/js/787.e8223466.chunk.js": "/airbnb/static/js/787.e8223466.chunk.js",
+    "index.html": "/airbnb/index.html",
+    "main.0fcdda55.css.map": "/airbnb/static/css/main.0fcdda55.css.map",
+    "main.f73d01fe.js.map": "/airbnb/static/js/main.f73d01fe.js.map",
+    "787.e8223466.chunk.js.map": "/airbnb/static/js/787.e8223466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fcdda55.css",
+    "static/js/main.f73d01fe.js"
+  ]
+}
